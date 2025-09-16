@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "Rosé Pine Moon",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "svelte.enable-ts-plugin": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+
+    "workbench.activityBar.location":"hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "breadcrumbs.enabled": false,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 16,
+    "window.zoomLevel": 1,
+    "editor.cursorStyle":"block-outline",
+    "editor.fontLigatures": true,
+    "editor.lineNumbers": "interval",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.snippetSuggestions": "none",
+    "emmet.triggerExpansionOnTab": true,
+    "extensions.ignoreRecommendations": true,
+
+    "custom-ui-style.stylesheet": {
+        ".quick-input-widget": "top: 25vh !important",
+        
+    }
+
+}
